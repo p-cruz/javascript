@@ -1,0 +1,19 @@
+{
+	"animales": [{
+			"name": "leonardo",
+			"species": "tortuga",
+			"foods": {
+				"likes": ["gambillas", "salchichas"],
+				"dislikes": ["carne", "verdura"]
+			}
+		},
+		{
+			"name": "donatello",
+			"species": "tortuga",
+			"foods": {
+				"likes": ["salchichas"],
+				"dislikes": ["leche"]
+			}
+		}
+	]
+}

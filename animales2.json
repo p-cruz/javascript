@@ -1,0 +1,19 @@
+{
+	"animales": [{
+			"name": "lucky",
+			"species": "perro",
+			"foods": {
+				"likes": ["leche", "pescado"],
+				"dislikes": ["carne", "verdura"]
+			}
+		},
+		{
+			"name": "curro",
+			"species": "loro",
+			"foods": {
+				"likes": ["salchichas"],
+				"dislikes": ["leche"]
+			}
+		}
+	]
+}
